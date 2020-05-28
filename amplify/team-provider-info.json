@@ -1,0 +1,15 @@
+{
+    "charlie": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-authcra-charlie-45908-authRole",
+            "UnauthRoleArn": "arn:aws:iam::191399177508:role/amplify-authcra-charlie-45908-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::191399177508:role/amplify-authcra-charlie-45908-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-authcra-charlie-45908-deployment",
+            "UnauthRoleName": "amplify-authcra-charlie-45908-unauthRole",
+            "StackName": "amplify-authcra-charlie-45908",
+            "StackId": "arn:aws:cloudformation:us-west-2:191399177508:stack/amplify-authcra-charlie-45908/f7379280-a09f-11ea-a58e-0ad539b374b4",
+            "AmplifyAppId": "d21ln947ak6zk5"
+        }
+    }
+}
